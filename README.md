@@ -43,13 +43,13 @@ Currently draft version please view https://www.jhauser.us/RISCV/ext-P/
 
 A completed version for p v018 and p v0.9.11, the v018 is based on John Hauser's draft specification, and v0.9.11 is based on this github riscv-p-spec repo old-doc:
 
-v0.18 gcc:https://github.com/ruyisdk/riscv-gcc/tree/p-dev
+v0.20 gcc:https://github.com/ruyisdk/riscv-gcc/tree/p-dev
 
-v0.18 binutils: https://github.com/ruyisdk/riscv-binutils/tree/p-dev
+v0.20 binutils: https://github.com/ruyisdk/riscv-binutils/tree/p-dev
 
-v0.18 intrinsic doc(WIP): https://github.com/topperc/p-ext-intrinsics
+v0.20 intrinsic doc: https://github.com/topperc/p-ext-intrinsics
 
-v0.18 qemu: https://github.com/mollybuild/qemu/tree/dev-p-018
+v0.20 qemu: https://github.com/mollybuild/qemu/tree/dev-p-020
 
 v0.9.11 gcc: https://github.com/ruyisdk/riscv-gcc/tree/15.1.0
 
